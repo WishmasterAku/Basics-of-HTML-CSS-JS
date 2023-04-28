@@ -2,3 +2,28 @@
 h2 {
     color:red;
 }
+
+body  {
+    background-color:black;
+}
+
+/* Class */
+.nft {
+    color:blue;
+}
+
+/* ID */
+#name {
+    color:green;
+}
+
+/* Attribute */
+p[draggable] {
+    color:yellow;
+}
+
+/* Universal */
+
+* {
+    color:orange;
+}
