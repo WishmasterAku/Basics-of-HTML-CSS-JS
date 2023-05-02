@@ -1,4 +1,12 @@
-/* Global styles */
+
+
+
+
+
+
+
+
+/*Global styles
 h2 {
     color:red;
 }
@@ -7,22 +15,23 @@ body  {
     background-color:black;
 }
 
-/* Class */
+/* Class 
 .nft {
     color:blue;
 }
 
-/* ID */
+/* ID 
 #name {
     color:green;
 }
 
-/* Attribute */
+/* Attribute  
 p[draggable] {
     color:yellow;
 }
 
 /* Universal */
+/*
 
 * {
     color:orange;
@@ -41,3 +50,12 @@ p[draggable] {
     margin-top: 100px;
     text-align: center;
 }   
+
+h1, h2 {
+    font-family: 'Roboto', sans-serif;
+    color: blueviolet;
+}
+
+.box > p {
+    color: firebrick;
+}*//*
